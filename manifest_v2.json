@@ -1,0 +1,31 @@
+{
+  "item": {
+    "id": "com.xiaoobai.whiteboard",
+    "restype": "quick_app",
+    "name": "希喔白板",
+    "description": "「希喔白板是一款为小米手环 10 Pro 设计的轻量手绘白板。用手指即可写字、涂鸦，支持 8 色画笔与橡皮擦、四页画板翻页、撤销与清空；画作保存在手环本地，随时打开继续画。全程无需联网、不申请隐私权限，退出时自动存档。」",
+    "preview": [
+      "media/preview-1.png",
+      "media/preview-2.png",
+      "media/preview-3.png",
+      "media/preview-4.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/cover.png",
+    "author": [
+      {
+        "name": "JF23112580",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.3",
+      "file_name": "downloads/com.xiaoobai.whiteboard.release.1.0.3.rpk",
+      "versionCode": 4
+    }
+  },
+  "ext": {}
+}
